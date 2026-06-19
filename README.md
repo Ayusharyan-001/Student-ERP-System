@@ -244,10 +244,12 @@ Computer Science Engineering Student
 
 Passionate about:
 
-Full Stack Development
-Database Systems
-Backend Engineering
-Application Support
-Oracle Technologies
+- Full Stack Development
+- Database Systems
+- Backend Engineering
+- Application Support
+- Oracle Technologies
+
+##
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
